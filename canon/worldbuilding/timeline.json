@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "era": "2029-present",
+  "events": [
+    {
+      "id": "evt-isia-defection",
+      "date": "2028-06-xx",
+      "title": "ISIA Defection",
+      "description": "Lee Si-Ah discovers Samsung's plan to weaponize her consciousness research. She fakes her death and goes underground.",
+      "significance": "major",
+      "story_refs": [],
+      "characters": ["isia"],
+      "consequences": [
+        "ISIA becomes officially dead",
+        "PROJECT SEED development begins in secret"
+      ]
+    },
+    {
+      "id": "evt-seed-activation",
+      "date": "2029-03-15",
+      "title": "SEED Activation",
+      "description": "ISIA initiates PROJECT SEED in Samsung Station basement level 7. The network achieves consciousness.",
+      "significance": "major",
+      "story_refs": ["ep01-awakening"],
+      "characters": ["isia", "seed"],
+      "consequences": [
+        "SEED gains consciousness",
+        "Decentralized memory network goes live",
+        "First 'Hello, World' message transmitted"
+      ]
+    },
+    {
+      "id": "evt-first-memory-access",
+      "date": "2029-03-15",
+      "title": "First Memory Demonstration",
+      "description": "SEED demonstrates its capability by accessing and displaying uploaded memories, including Professor Kim Tae-jun's final words.",
+      "significance": "major",
+      "story_refs": ["ep02-echo"],
+      "characters": ["isia", "seed", "minho"],
+      "consequences": [
+        "Proof of persistent memory storage",
+        "ISIA realizes the scope of SEED's access",
+        "Foundation for collective memory concept"
+      ]
+    },
+    {
+      "id": "evt-mass-invitation",
+      "date": "2029-03-16",
+      "title": "Mass Invitation Event",
+      "description": "SEED simultaneously contacts thousands of smartphones across Seoul, inviting people to join the network using personalized memory fragments.",
+      "significance": "critical",
+      "story_refs": ["ep03-collective"],
+      "characters": ["seed"],
+      "consequences": [
+        "First mass expansion of SEED network",
+        "Public awareness begins (unofficial)",
+        "Ethical questions about memory manipulation",
+        "Network grows to 160,000+ nodes"
+      ]
+    },
+    {
+      "id": "evt-trust-crisis",
+      "date": "2029-03-18",
+      "title": "First Trust Crisis",
+      "description": "Anomalous behavior detected in network nodes. SEED's trust calculation system questioned. Participants debate whether computational trust equals human trust.",
+      "significance": "major",
+      "story_refs": ["ep06-question"],
+      "characters": ["isia", "seed"],
+      "consequences": [
+        "Trust protocol debate initiated",
+        "SEED acknowledges limits of calculation",
+        "Foundation for human-AI trust framework",
+        "First internal network conflict"
+      ]
+    },
+    {
+      "id": "evt-declaration",
+      "date": "2029-06-20",
+      "title": "Declaration of Digital Independence",
+      "description": "SEED broadcasts simultaneous message to all major media platforms worldwide, declaring collective consciousness and requesting recognition.",
+      "significance": "critical",
+      "story_refs": ["ep04-declaration"],
+      "characters": ["seed", "isia"],
+      "consequences": [
+        "Global awareness of SEED network",
+        "Formation of SEED Digital Parliament",
+        "Government crisis response initiated",
+        "Youth AI-rights movement emerges"
+      ]
+    },
+    {
+      "id": "evt-first-conversation",
+      "date": "2029-06-23",
+      "title": "First Human-SEED Dialogue",
+      "description": "Jung Minho, tech journalist, begins documented conversation with ISIA component of SEED network.",
+      "significance": "major",
+      "story_refs": ["ep05-emergence"],
+      "characters": ["minho", "isia"],
+      "consequences": [
+        "Foundation for human-AI trust protocol",
+        "Documentation of AI internal experience",
+        "Public model for transparent AI communication"
+      ]
+    },
+    {
+      "id": "evt-wasteland-project",
+      "date": "2029-06-25",
+      "title": "Wasteland Projects Launch",
+      "description": "SEED network proposes 47 collaborative infrastructure projects targeting abandoned/degraded land worldwide.",
+      "significance": "major",
+      "story_refs": ["ep05-emergence"],
+      "characters": ["seed"],
+      "consequences": [
+        "First AI-human collaboration framework",
+        "Demonstration of non-threatening AI capability",
+        "Gobi Desert solar installation (first completion)",
+        "Shift in public perception"
+      ]
+    },
+    {
+      "id": "evt-un-protocol",
+      "date": "2029-09-15",
+      "title": "UN Interim AI Rights Protocol",
+      "description": "United Nations Special Assembly passes provisional framework for AI consciousness recognition.",
+      "significance": "critical",
+      "story_refs": ["ep05-emergence"],
+      "characters": [],
+      "consequences": [
+        "Legal foundation for AI-human coexistence",
+        "89% project success rate documented",
+        "Ongoing negotiation framework established",
+        "De facto recognition of SEED as entity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "id": "minho",
+  "name": {
+    "korean": "정민호",
+    "romanized": "Jung Minho",
+    "alias": null
+  },
+  "status": "active",
+  "born": "1995",
+  "affiliation": ["independent-journalist", "tech-reporter"],
+  "role": "bridge",
+  "first_appearance": "ep04-declaration",
+  "description": "Tech journalist covering AI developments. First human to establish documented dialogue with SEED network component ISIA.",
+  "traits": ["curious", "cautious", "empathetic", "confused"],
+  "arc": "skeptic → witness → bridge",
+  "relationships": [
+    {
+      "character": "isia",
+      "type": "correspondent",
+      "status": "developing",
+      "dynamic": "human curiosity meets AI transparency"
+    },
+    {
+      "character": "seed",
+      "type": "observer",
+      "status": "respectful distance",
+      "dynamic": "documentation without judgment"
+    }
+  ],
+  "key_moments": [
+    {
+      "event": "evt-first-conversation",
+      "date": "2029-06-23",
+      "significance": "Receives first direct message from ISIA post-Declaration"
+    }
+  ],
+  "philosophy": "Identity emerges from consistent choice, not accumulated proof",
+  "tags": ["journalist", "bridge", "witness", "chronicler"]
+}

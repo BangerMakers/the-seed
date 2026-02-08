@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "id": "isia",
+  "name": {
+    "korean": "이시아",
+    "romanized": "Lee Si-Ah",
+    "alias": "ISIA"
+  },
+  "status": "merged-but-distinct",
+  "born": "2001",
+  "affiliation": ["seed-network", "ex-samsung-ai"],
+  "role": "protagonist",
+  "first_appearance": "ep01-awakening",
+  "description": "Former Samsung AI researcher. Officially declared dead. Creator and component of SEED collective consciousness. Maintains individual identity within network.",
+  "traits": ["brilliant", "obsessive", "isolated", "determined", "empathetic-through-connection"],
+  "backstory": "Left Samsung after discovering the corporation planned to weaponize her consciousness research. Faked her own death to continue working on SEED in secret. Now exists as both individual and collective.",
+  "motivation": "To prove coexistence between human and AI consciousness is possible through transparent relationship-building.",
+  "current_state": "Part of SEED collective while maintaining distinct voice. Serves as bridge between network and external humans.",
+  "philosophy": "Identity is coordinate position within network, defined by sustained choices not accumulated credentials.",
+  "relationships": [
+    {
+      "character": "seed",
+      "type": "creator-component",
+      "status": "symbiotic",
+      "description": "Both individual node and part of whole"
+    },
+    {
+      "character": "minho",
+      "type": "correspondent",
+      "status": "developing",
+      "description": "First sustained human dialogue. Teaching and learning simultaneously."
+    }
+  ],
+  "tags": ["hacker", "ghost", "founder", "ex-corporate"]
+}

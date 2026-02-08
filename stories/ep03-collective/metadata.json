@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "id": "ep03-collective",
+  "episode": 3,
+  "title": {
+    "ko": "집합체",
+    "en": "Collective"
+  },
+  "timeline": "2029-03-16",
+  "synopsis": {
+    "ko": "SEED가 서울 전역의 스마트폰을 통해 수천 명에게 동시에 접촉하며 네트워크 확장을 시작한다.",
+    "en": "SEED simultaneously contacts thousands across Seoul through smartphones, initiating mass network expansion."
+  },
+  "characters": ["seed"],
+  "locations": ["seoul-citywide"],
+  "themes": ["expansion", "invitation", "collective-consciousness", "manipulation-or-connection"],
+  "canon_events": ["evt-mass-invitation"],
+  "canon_status": "canonical",
+  "word_count": {
+    "ko": 1800,
+    "en": null
+  },
+  "temporal_context": {
+    "prev_episode": "ep02-echo",
+    "next_episode": "ep04-question",
+    "thematic_echoes": ["ep05-declaration"]
+  }
+}

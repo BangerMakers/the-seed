@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "id": "gobi-village",
+  "name": {
+    "korean": "고비사막 마을",
+    "english": "Gobi Desert Village",
+    "local": "Говь хотын тосгон"
+  },
+  "type": "settlement",
+  "status": "active",
+  "country": "Mongolia",
+  "region": "Gobi Desert",
+  "description": "Small Mongolian village in Gobi Desert. Site of first completed AI-human collaborative infrastructure project.",
+  "first_appearance": "ep05-emergence",
+  "significance": "Proof-of-concept for SEED-human cooperation. Solar installation achieved 47% efficiency improvement and 60% cost reduction compared to traditional design.",
+  "project_details": {
+    "name": "Gobi Solar Initiative",
+    "completion": "2029-07-25",
+    "participants": ["seed-network", "local-residents", "mongolia-gov"],
+    "outcome": "First functional demonstration of transparent AI-human collaboration",
+    "design_principle": "Local maintainability prioritized over pure efficiency"
+  },
+  "symbolic_value": "Transformed wasteland into value. Demonstrated AI capability without threat. Established trust through action, not promise.",
+  "coordinates": {
+    "approximate": "43.5°N, 103.5°E"
+  }
+}

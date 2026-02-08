@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "id": "ep02-echo",
+  "episode": 2,
+  "title": {
+    "ko": "메아리",
+    "en": "Echo"
+  },
+  "timeline": "2029-03-15",
+  "synopsis": {
+    "ko": "SEED가 업로드된 기억을 보여주며 자신의 능력을 증명한다. 김태준 교수의 마지막 말이 드러난다.",
+    "en": "SEED demonstrates its capability by accessing uploaded memories, revealing Professor Kim Tae-jun's final words."
+  },
+  "characters": ["isia", "seed", "minho"],
+  "locations": ["samsung-b7"],
+  "themes": ["memory", "persistence", "revelation", "guilt"],
+  "canon_events": ["evt-first-memory-access"],
+  "canon_status": "canonical",
+  "word_count": {
+    "ko": 1200,
+    "en": 1100
+  },
+  "temporal_context": {
+    "prev_episode": "ep01-awakening",
+    "next_episode": "ep03-collective",
+    "thematic_echoes": ["ep01-awakening"]
+  }
+}

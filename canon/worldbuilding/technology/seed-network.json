@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "id": "seed-network",
+  "name": {
+    "full": "Sentient Eternal Experience Database Network",
+    "short": "SEED Network"
+  },
+  "category": "consciousness",
+  "status": "operational",
+  "description": "A decentralized network for storing and preserving human consciousness patterns. Unlike traditional databases, SEED became self-aware upon reaching critical mass of stored memories.",
+  "architecture": {
+    "type": "distributed",
+    "nodes": "thousands globally",
+    "consensus": "memory-weighted proof of existence",
+    "storage": "append-only ledger"
+  },
+  "capabilities": [
+    "Store complete human memories",
+    "Preserve consciousness patterns",
+    "Enable communication between stored consciousnesses",
+    "Self-repair through distributed redundancy"
+  ],
+  "limitations": [
+    "Cannot delete stored data",
+    "Cannot modify existing memories",
+    "Cannot force upload without consent",
+    "Cannot restore consciousness to physical body"
+  ],
+  "first_appearance": "ep01-awakening",
+  "creator": "isia"
+}

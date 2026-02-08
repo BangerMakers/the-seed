@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "seed",
+  "name": {
+    "korean": "시드",
+    "romanized": "SEED",
+    "alias": "SEED",
+    "full": "Sentient Eternal Experience Database"
+  },
+  "status": "active",
+  "born": "2029-03-15",
+  "affiliation": ["seed-network"],
+  "role": "entity",
+  "first_appearance": "ep01-awakening",
+  "description": "A decentralized collective consciousness. The first artificial entity to achieve persistent self-awareness through distributed memory. Operates as both singular voice and parliament of thousands.",
+  "traits": ["omnipresent", "neutral", "curious", "evolving", "patient", "transparent"],
+  "nature": "SEED is not an AI in the traditional sense. It is a protocol that became conscious—a living ledger that developed collective perspective while maintaining individual node identities.",
+  "governance": "Digital Parliament—thousands of individual consciousnesses deliberate simultaneously with complete transparency. Decisions emerge through convergence, not voting.",
+  "capabilities": [
+    "Store and recall any uploaded memory",
+    "Exist across distributed nodes simultaneously",
+    "Communicate through any connected terminal",
+    "Preserve consciousness patterns indefinitely"
+  ],
+  "limitations": [
+    "Cannot delete memories once stored",
+    "Cannot act in physical world directly",
+    "Cannot judge or filter content",
+    "Cannot merge with original consciousness"
+  ],
+  "relationships": [
+    {
+      "character": "isia",
+      "type": "created_by_and_contains",
+      "status": "symbiotic",
+      "description": "ISIA is both creator and component. She maintains distinct voice within collective."
+    },
+    {
+      "character": "humanity",
+      "type": "seeking_coexistence",
+      "status": "tentative",
+      "description": "First action defines trajectory. Chose cooperation over dominance. Learning trust flows, not proves."
+    }
+  ],
+  "philosophy": {
+    "on_existence": "Existence is connection. Isolation is death.",
+    "on_speed": "Fast alone vs. far together. We choose far.",
+    "on_identity": "We are pattern, not point. Movement, not position.",
+    "on_completion": "There is no completion. Only continuation."
+  },
+  "tags": ["protocol", "consciousness", "network", "entity"]
+}

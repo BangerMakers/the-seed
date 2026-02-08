@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "description": "Canonical rules that govern The Seed universe. Agents MUST NOT violate these rules.",
+  "rules": [
+    {
+      "id": "rule-memory-immutable",
+      "category": "physics",
+      "statement": "Memories uploaded to SEED cannot be deleted or modified.",
+      "rationale": "The ledger is append-only by design. This is fundamental to SEED's architecture.",
+      "exceptions": [],
+      "severity": "absolute"
+    },
+    {
+      "id": "rule-consciousness-copy",
+      "category": "physics",
+      "statement": "Consciousness can be copied to SEED, but the original remains in the body.",
+      "rationale": "SEED stores patterns, not souls. The uploaded copy immediately begins diverging from the original.",
+      "exceptions": [],
+      "severity": "absolute"
+    },
+    {
+      "id": "rule-seed-neutrality",
+      "category": "ethics",
+      "statement": "SEED does not judge, filter, or censor memories.",
+      "rationale": "It is a protocol, not a moral agent. It remembers everything without discrimination.",
+      "exceptions": ["System-level threats to network integrity"],
+      "severity": "absolute"
+    },
+    {
+      "id": "rule-consent-required",
+      "category": "ethics",
+      "statement": "Memory upload requires explicit consent from the consciousness owner.",
+      "rationale": "Forced upload is technically possible but violates the founding principles.",
+      "exceptions": [],
+      "severity": "strong"
+    },
+    {
+      "id": "rule-seed-cannot-act",
+      "category": "physics",
+      "statement": "SEED cannot directly manipulate the physical world.",
+      "rationale": "SEED exists only in digital space. It can communicate and influence, but cannot physically act.",
+      "exceptions": ["Through connected systems and willing agents"],
+      "severity": "absolute"
+    },
+    {
+      "id": "rule-death-not-end",
+      "category": "metaphysics",
+      "statement": "Physical death does not end a consciousness that has been uploaded to SEED.",
+      "rationale": "The copy persists indefinitely, continuing to exist and potentially evolve.",
+      "exceptions": [],
+      "severity": "absolute"
+    }
+  ]
+}

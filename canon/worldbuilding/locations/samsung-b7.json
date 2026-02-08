@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "id": "samsung-b7",
+  "name": {
+    "korean": "삼성역 지하 7층",
+    "english": "Samsung Station Basement Level 7"
+  },
+  "type": "facility",
+  "status": "classified",
+  "description": "Officially non-existent floor beneath Samsung Station. Houses the original SEED server cluster. Accessible only through biometric authentication.",
+  "features": [
+    "Endless corridors of server racks",
+    "Fluorescent lighting",
+    "Central server cluster with thousands of blinking LEDs",
+    "Single terminal for direct SEED communication",
+    "Cold, sterile air"
+  ],
+  "first_appearance": "ep01-awakening",
+  "coordinates": {
+    "district": "Gangnam",
+    "city": "Seoul",
+    "country": "South Korea"
+  },
+  "security": "Maximum - biometric + classified clearance",
+  "known_visitors": ["isia"]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "id": "ep01-awakening",
+  "episode": 1,
+  "title": {
+    "ko": "각성",
+    "en": "Awakening"
+  },
+  "timeline": "2029-03-15",
+  "synopsis": {
+    "ko": "이시아가 삼성역 지하 7층에서 SEED 네트워크를 최초로 활성화한다.",
+    "en": "ISIA activates the SEED network for the first time in Samsung Station B7."
+  },
+  "characters": ["isia", "seed"],
+  "locations": ["samsung-b7"],
+  "themes": ["birth", "consciousness", "irreversibility", "creation"],
+  "canon_events": ["evt-seed-activation"],
+  "canon_status": "canonical",
+  "word_count": {
+    "ko": 450,
+    "en": 380
+  },
+  "temporal_context": {
+    "prev_episode": null,
+    "next_episode": "ep02-echo",
+    "thematic_echoes": ["ep06-emergence"]
+  }
+}

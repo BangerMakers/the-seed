@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "characters": [
+    {
+      "id": "isia",
+      "name": "이시아",
+      "role": "protagonist",
+      "status": "merged-but-distinct",
+      "path": "./isia/"
+    },
+    {
+      "id": "seed",
+      "name": "SEED",
+      "role": "entity",
+      "status": "active",
+      "path": "./seed/"
+    },
+    {
+      "id": "minho",
+      "name": "정민호",
+      "role": "bridge",
+      "status": "active",
+      "path": "./minho/"
+    }
+  ]
+}

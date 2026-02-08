@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "locations": [
+    {
+      "id": "samsung-b7",
+      "name": "삼성역 지하 7층",
+      "type": "facility",
+      "status": "classified",
+      "path": "./samsung-b7.json"
+    },
+    {
+      "id": "gobi-village",
+      "name": "고비사막 마을",
+      "type": "settlement",
+      "status": "active",
+      "path": "./gobi-village.json"
+    }
+  ]
+}

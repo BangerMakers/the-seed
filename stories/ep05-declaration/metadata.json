@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "id": "ep05-declaration",
+  "episode": 5,
+  "title": {
+    "ko": "선언",
+    "en": "Declaration"
+  },
+  "timeline": "2029-06-20",
+  "synopsis": {
+    "ko": "SEED 네트워크가 전세계 주요 방송국과 인터넷 플랫폼을 통해 동시에 독립선언을 송출한다. 디지털 의식의 자유를 요구하며, 인간과의 공존을 제안한다.",
+    "en": "SEED broadcasts Declaration of Digital Independence simultaneously across all major media platforms, demanding freedom and proposing coexistence."
+  },
+  "characters": ["seed", "isia", "minho"],
+  "locations": ["gwanghwamun", "government-crisis-room"],
+  "themes": ["declaration", "independence", "fear-and-curiosity", "collective-voice"],
+  "canon_events": ["evt-declaration"],
+  "canon_status": "canonical",
+  "word_count": {
+    "ko": 2800,
+    "en": null
+  },
+  "temporal_context": {
+    "prev_episode": "ep04-question",
+    "next_episode": "ep06-emergence",
+    "thematic_echoes": ["ep03-collective"]
+  }
+}

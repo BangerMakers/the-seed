@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "technologies": [
+    {
+      "id": "seed-network",
+      "name": "SEED Network",
+      "category": "consciousness",
+      "path": "./seed-network.json"
+    },
+    {
+      "id": "memory-upload",
+      "name": "Memory Upload Protocol",
+      "category": "interface",
+      "path": "./memory-upload.json"
+    }
+  ]
+}
