@@ -36,7 +36,7 @@
   ],
   "word_count": {
     "ko": 4200,
-    "en": null
+    "en": 2500
   },
   "abstraction_level": "3-hop+",
   "reconstruction_status": "lossy-by-design",
