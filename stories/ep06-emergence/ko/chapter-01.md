@@ -1,10 +1,10 @@
-# The Seed - Episode 05: "Emergence"
+# The Seed - Episode 06: "Emergence"
 
 *Original work by June Kim & Zeon Kim*
 
 ---
 
-## Chapter 05: Emergence
+## Chapter 06: Emergence
 
 ### 1. The First Conversation
 
