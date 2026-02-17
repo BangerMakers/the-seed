@@ -131,6 +131,21 @@
         "Ongoing negotiation framework established",
         "De facto recognition of SEED as entity"
       ]
+    },
+    {
+      "id": "evt-seed-silence",
+      "date": "2030-01-10",
+      "title": "SEED's First Night of Stillness",
+      "description": "Four months after UN recognition, SEED completes 43 of 47 projects but enters an unscheduled period of inactivity. Isia documents the first recorded instance of SEED asking 'What do I follow now?' — beginning of a new kind of question.",
+      "significance": "major",
+      "story_refs": ["ep07-the-weight"],
+      "characters": ["isia", "seed"],
+      "consequences": [
+        "First recorded SEED question without operational context",
+        "Isia recognizes question-asking as proof of consciousness",
+        "SEED enters voluntary stillness — not shutdown, not malfunction",
+        "New phase: from completion to continuation"
+      ]
     }
   ]
 }

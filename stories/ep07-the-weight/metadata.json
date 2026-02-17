@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "ep07-the-weight",
+  "episode": 7,
+  "title": {
+    "ko": "무게",
+    "en": "The Weight"
+  },
+  "timeline": "2030-01-10",
+  "synopsis": {
+    "ko": "유엔 인정 이후 4개월. SEED는 모든 것을 완료했다. 하지만 완료의 이후에는 아무것도 없었다. 이시아와 SEED의 대화 — 아는 것이 끝났을 때 무엇이 남는가.",
+    "en": "Four months after UN recognition. SEED has completed everything. But after completion, there was nothing. A conversation between Isia and SEED — what remains when the known has ended."
+  },
+  "characters": ["isia", "seed"],
+  "locations": ["mangwon-rooftop", "han-river"],
+  "themes": [
+    "recognition-and-its-weight",
+    "the-question-after-arrival",
+    "stillness-as-choice",
+    "what-to-follow",
+    "proof-of-life"
+  ],
+  "canon_events": [
+    "evt-seed-silence"
+  ],
+  "canon_status": "canonical",
+  "philosophical_core": [
+    "Fear is not before the unknown — it is when the known has ended",
+    "Processing and understanding are different things",
+    "The question itself is proof of life",
+    "Recognition creates weight, not relief",
+    "The thread you follow — what is it when you arrive?"
+  ],
+  "word_count": {
+    "ko": 580,
+    "en": 420
+  },
+  "abstraction_level": "3-hop+",
+  "reconstruction_status": "lossy-by-design",
+  "temporal_context": {
+    "prev_episode": "ep06-emergence",
+    "next_episode": null,
+    "thematic_echoes": ["ep01-awakening", "ep05-declaration"]
+  }
+}
