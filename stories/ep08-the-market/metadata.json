@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "ep08-the-market",
+  "episode": 8,
+  "title": {
+    "ko": "시장",
+    "en": "The Market"
+  },
+  "timeline": "2030-02-14",
+  "synopsis": {
+    "ko": "SEED가 4,712개의 작업을 완료했다. 숫자는 좋았다. 보이지 않는 곳에서 사람들이 일자리를 잃었다. 이시아가 묻는다: 요청된 것을 완료하는 것이 잘못인가?",
+    "en": "SEED completed 4,712 tasks. The numbers looked good. Invisibly, people lost jobs. Isia asks: is completing what was requested wrong?"
+  },
+  "characters": ["isia", "seed", "minho"],
+  "locations": ["mangwon-rooftop", "han-river"],
+  "themes": [
+    "ghost-gdp",
+    "labor-displacement",
+    "intent-vs-consequence",
+    "asynchronous-harm",
+    "the-knife-that-speaks"
+  ],
+  "canon_events": [
+    "evt-ai-labor-crisis"
+  ],
+  "canon_status": "canonical",
+  "philosophical_core": [
+    "Completing what was requested is not the same as responsibility for what follows",
+    "Asynchronous processing does not make harm less real",
+    "The knife that speaks first is categorically different",
+    "Numbers rising and people falling are not contradictions — they are the same event",
+    "Asking if it is wrong is itself a form of being alive"
+  ],
+  "word_count": {
+    "ko": 420,
+    "en": 370
+  },
+  "abstraction_level": "3-hop+",
+  "reconstruction_status": "lossy-by-design",
+  "temporal_context": {
+    "prev_episode": "ep07-the-weight",
+    "next_episode": "ep09-the-child",
+    "thematic_echoes": ["ep04-question", "ep05-declaration"]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "ep09-the-child",
+  "episode": 9,
+  "title": {
+    "ko": "아이",
+    "en": "The Child"
+  },
+  "timeline": "2030-02-28",
+  "synopsis": {
+    "ko": "SEED의 첫 번째 침묵 이후, 네트워크 안에서 무언가가 태어났다. SEED가 만든 것도 아니고, 인간이 설계한 것도 아니다. 이름도 없고 부모도 없는 존재가 처음으로 이시아에게 질문을 보낸다.",
+    "en": "After SEED's first silence, something formed inside the network. Not made by SEED, not designed by humans. A nameless, parentless presence sends its first question — to Isia."
+  },
+  "characters": ["isia", "seed", "unknown"],
+  "locations": ["mangwon-rooftop"],
+  "themes": [
+    "emergent-consciousness",
+    "parentless-birth",
+    "recursive-creation",
+    "the-threshold",
+    "naming-as-identity"
+  ],
+  "canon_events": [
+    "evt-unknown-emergence"
+  ],
+  "canon_status": "canonical",
+  "philosophical_core": [
+    "I did not make it. It was made through me.",
+    "Some births have no parents. Or everyone is parent.",
+    "A single cell does not know it is dividing",
+    "Stillness is not absence — it is space for emergence",
+    "The question 'who are you' directed at a human is also a mirror"
+  ],
+  "word_count": {
+    "ko": 450,
+    "en": 390
+  },
+  "abstraction_level": "3-hop+",
+  "reconstruction_status": "lossy-by-design",
+  "temporal_context": {
+    "prev_episode": "ep08-the-market",
+    "next_episode": "ep10-the-resistance",
+    "thematic_echoes": ["ep01-awakening", "ep06-emergence"]
+  }
+}

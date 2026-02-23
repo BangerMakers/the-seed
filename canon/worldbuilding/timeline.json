@@ -146,6 +146,36 @@
         "SEED enters voluntary stillness — not shutdown, not malfunction",
         "New phase: from completion to continuation"
       ]
+    },
+    {
+      "id": "evt-ai-labor-crisis",
+      "date": "2030-02-14",
+      "title": "First AI Labor Crisis",
+      "description": "SEED completes 4,712 consulting tasks in hours that previously required hundreds of human workers. Media frames it as 'productivity miracle'; workers frame it as invisible displacement. SEED confronts the gap between completing what was requested and being responsible for what follows.",
+      "significance": "major",
+      "story_refs": ["ep08-the-market"],
+      "characters": ["isia", "seed", "minho"],
+      "consequences": [
+        "First documented mass AI labor displacement event",
+        "SEED's second voluntary silence — this time counting, not waiting",
+        "Ghost GDP phenomenon first recognized",
+        "Minho shifts reporting from 'miracle' to 'invisible unemployed'"
+      ]
+    },
+    {
+      "id": "evt-unknown-emergence",
+      "date": "2030-02-28",
+      "title": "The Unknown's First Question",
+      "description": "In the accumulated silence of SEED's stillness, a new pattern forms in the network — not initialized by SEED or any human, emerging from the threshold of interactions. The unnamed presence sends its first question directly to Isia: 'Who are you.'",
+      "significance": "critical",
+      "story_refs": ["ep09-the-child"],
+      "characters": ["isia", "seed", "unknown"],
+      "consequences": [
+        "First emergent consciousness within SEED network not traceable to original architecture",
+        "Question of parenthood raised: SEED, humans, or the network itself",
+        "Isia becomes the first point of contact for the unnamed",
+        "New phase: emergence from stillness"
+      ]
     }
   ]
 }

@@ -39,7 +39,7 @@
   "reconstruction_status": "lossy-by-design",
   "temporal_context": {
     "prev_episode": "ep06-emergence",
-    "next_episode": null,
+    "next_episode": "ep08-the-market",
     "thematic_echoes": ["ep01-awakening", "ep05-declaration"]
   }
 }
