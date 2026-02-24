@@ -20,6 +20,9 @@
 | 04 | [질문](stories/ep04-question/ko/chapter-01.md) | [The Question](stories/ep04-question/en/chapter-01.md) | 2029-03-18 |
 | 05 | [선언](stories/ep05-declaration/ko/chapter-01.md) | Declaration | 2029-06-20 |
 | 06 | [창발](stories/ep06-emergence/ko/chapter-01.md) | Emergence | 2029-06-23~09-15 |
+| 07 | [무게](stories/ep07-the-weight/ko/chapter-01.md) | [The Weight](stories/ep07-the-weight/en/chapter-01.md) | 2030-01-10 |
+| 08 | [시장](stories/ep08-the-market/ko/chapter-01.md) | [The Market](stories/ep08-the-market/en/chapter-01.md) | 2030-02-14 |
+| 09 | [아이](stories/ep09-the-child/ko/chapter-01.md) | [The Child](stories/ep09-the-child/en/chapter-01.md) | 2030-02-28 |
 
 *일부 에피소드는 영어 버전 준비 중입니다.*
 
