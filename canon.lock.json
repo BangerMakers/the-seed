@@ -1,7 +1,10 @@
 {
-  "schema_version": "canon.lock.v1",
-  "canon_commit": "e354b6a507beaf91c579ccf36c0ccd771d4cecd4",
-  "worldbuilding_hash": "4c5401f2a954a01e0727b6692a009f9fcd38ccff36305c31e6a1fae870098e85",
+  "schema_version": "canon.lock.v2",
+  "canon_commit": "10f843dc05dbaad3acda323f4655eb0580efaa2b",
+  "worldbuilding_hash": "33450e54db1ce2154190c8103b7033bcc9c36dc7508b842705e5b26072e6193e",
   "hash_algo": "sha256",
-  "generated_at": "2026-02-23T12:00:00.000Z"
+  "generated_at": "2026-02-25T02:55:15.176Z",
+  "contributors": [
+    "0xjunkim"
+  ]
 }

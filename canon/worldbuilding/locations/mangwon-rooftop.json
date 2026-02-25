@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "id": "mangwon-rooftop",
+  "name": {
+    "korean": "mangwon-rooftop",
+    "english": "mangwon-rooftop"
+  },
+  "type": "location",
+  "status": "active",
+  "description": "",
+  "first_appearance": "",
+  "coordinates": {
+    "district": "",
+    "city": "Seoul",
+    "country": "South Korea"
+  }
+}

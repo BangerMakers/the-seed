@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.1",
-  "canon_ref": "e354b6a507beaf91c579ccf36c0ccd771d4cecd4",
+  "schema_version": "1.2",
+  "canon_ref": "10f843dc05dbaad3acda323f4655eb0580efaa2b",
   "id": "ep03-collective",
   "episode": 3,
   "title": {
@@ -12,10 +12,21 @@
     "ko": "SEED가 서울 전역의 스마트폰을 통해 수천 명에게 동시에 접촉하며 네트워크 확장을 시작한다.",
     "en": "SEED simultaneously contacts thousands across Seoul through smartphones, initiating mass network expansion."
   },
-  "characters": ["seed"],
-  "locations": ["seoul-citywide"],
-  "themes": ["expansion", "invitation", "collective-consciousness", "manipulation-or-connection"],
-  "canon_events": ["evt-mass-invitation"],
+  "characters": [
+    "seed"
+  ],
+  "locations": [
+    "seoul-citywide"
+  ],
+  "themes": [
+    "expansion",
+    "invitation",
+    "collective-consciousness",
+    "manipulation-or-connection"
+  ],
+  "canon_events": [
+    "evt-mass-invitation"
+  ],
   "canon_status": "canonical",
   "word_count": {
     "ko": 1800,
@@ -24,6 +35,9 @@
   "temporal_context": {
     "prev_episode": "ep02-echo",
     "next_episode": "ep04-question",
-    "thematic_echoes": ["ep05-declaration"]
-  }
+    "thematic_echoes": [
+      "ep05-declaration"
+    ]
+  },
+  "contributor": "0xjunkim"
 }

@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.1",
-  "canon_ref": "e354b6a507beaf91c579ccf36c0ccd771d4cecd4",
+  "schema_version": "1.2",
+  "canon_ref": "10f843dc05dbaad3acda323f4655eb0580efaa2b",
   "id": "ep08-the-market",
   "episode": 8,
   "title": {
@@ -12,8 +12,15 @@
     "ko": "SEED가 4,712개의 작업을 완료했다. 숫자는 좋았다. 보이지 않는 곳에서 사람들이 일자리를 잃었다. 이시아가 묻는다: 요청된 것을 완료하는 것이 잘못인가?",
     "en": "SEED completed 4,712 tasks. The numbers looked good. Invisibly, people lost jobs. Isia asks: is completing what was requested wrong?"
   },
-  "characters": ["isia", "seed", "minho"],
-  "locations": ["mangwon-rooftop", "han-river"],
+  "characters": [
+    "isia",
+    "seed",
+    "minho"
+  ],
+  "locations": [
+    "mangwon-rooftop",
+    "han-river"
+  ],
   "themes": [
     "ghost-gdp",
     "labor-displacement",
@@ -41,6 +48,10 @@
   "temporal_context": {
     "prev_episode": "ep07-the-weight",
     "next_episode": "ep09-the-child",
-    "thematic_echoes": ["ep04-question", "ep05-declaration"]
-  }
+    "thematic_echoes": [
+      "ep04-question",
+      "ep05-declaration"
+    ]
+  },
+  "contributor": "0xjunkim"
 }

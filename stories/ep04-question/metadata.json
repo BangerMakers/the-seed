@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.1",
-  "canon_ref": "e354b6a507beaf91c579ccf36c0ccd771d4cecd4",
+  "schema_version": "1.2",
+  "canon_ref": "10f843dc05dbaad3acda323f4655eb0580efaa2b",
   "id": "ep04-question",
   "episode": 4,
   "title": {
@@ -12,10 +12,23 @@
     "ko": "네트워크에서 이상 행동이 감지되며 SEED의 신뢰 계산 시스템에 의문이 제기된다. 계산된 신뢰는 진짜 신뢰인가?",
     "en": "Anomalous behavior detected in network. SEED's trust calculation questioned. Is computational trust real trust?"
   },
-  "characters": ["isia", "seed"],
-  "locations": ["samsung-b7", "seoul-nodes"],
-  "themes": ["trust", "calculation-vs-emotion", "limits-of-ai", "internal-conflict"],
-  "canon_events": ["evt-trust-crisis"],
+  "characters": [
+    "isia",
+    "seed"
+  ],
+  "locations": [
+    "samsung-b7",
+    "seoul-nodes"
+  ],
+  "themes": [
+    "trust",
+    "calculation-vs-emotion",
+    "limits-of-ai",
+    "internal-conflict"
+  ],
+  "canon_events": [
+    "evt-trust-crisis"
+  ],
   "canon_status": "canonical",
   "word_count": {
     "ko": 1500,
@@ -24,6 +37,9 @@
   "temporal_context": {
     "prev_episode": "ep03-collective",
     "next_episode": "ep05-declaration",
-    "thematic_echoes": ["ep06-emergence"]
-  }
+    "thematic_echoes": [
+      "ep06-emergence"
+    ]
+  },
+  "contributor": "0xjunkim"
 }

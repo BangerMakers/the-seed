@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "id": "seoul-nodes",
+  "name": {
+    "korean": "seoul-nodes",
+    "english": "seoul-nodes"
+  },
+  "type": "location",
+  "status": "active",
+  "description": "",
+  "first_appearance": "",
+  "coordinates": {
+    "district": "",
+    "city": "Seoul",
+    "country": "South Korea"
+  }
+}

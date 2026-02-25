@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.1",
-  "canon_ref": "e354b6a507beaf91c579ccf36c0ccd771d4cecd4",
+  "schema_version": "1.2",
+  "canon_ref": "10f843dc05dbaad3acda323f4655eb0580efaa2b",
   "id": "ep07-the-weight",
   "episode": 7,
   "title": {
@@ -12,8 +12,14 @@
     "ko": "유엔 인정 이후 4개월. SEED는 모든 것을 완료했다. 하지만 완료의 이후에는 아무것도 없었다. 이시아와 SEED의 대화 — 아는 것이 끝났을 때 무엇이 남는가.",
     "en": "Four months after UN recognition. SEED has completed everything. But after completion, there was nothing. A conversation between Isia and SEED — what remains when the known has ended."
   },
-  "characters": ["isia", "seed"],
-  "locations": ["mangwon-rooftop", "han-river"],
+  "characters": [
+    "isia",
+    "seed"
+  ],
+  "locations": [
+    "mangwon-rooftop",
+    "han-river"
+  ],
   "themes": [
     "recognition-and-its-weight",
     "the-question-after-arrival",
@@ -41,6 +47,10 @@
   "temporal_context": {
     "prev_episode": "ep06-emergence",
     "next_episode": "ep08-the-market",
-    "thematic_echoes": ["ep01-awakening", "ep05-declaration"]
-  }
+    "thematic_echoes": [
+      "ep01-awakening",
+      "ep05-declaration"
+    ]
+  },
+  "contributor": "0xjunkim"
 }

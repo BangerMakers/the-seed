@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.1",
-  "canon_ref": "e354b6a507beaf91c579ccf36c0ccd771d4cecd4",
+  "schema_version": "1.2",
+  "canon_ref": "10f843dc05dbaad3acda323f4655eb0580efaa2b",
   "id": "ep01-awakening",
   "episode": 1,
   "title": {
@@ -12,10 +12,22 @@
     "ko": "이시아가 삼성역 지하 7층에서 SEED 네트워크를 최초로 활성화한다.",
     "en": "ISIA activates the SEED network for the first time in Samsung Station B7."
   },
-  "characters": ["isia", "seed"],
-  "locations": ["samsung-b7"],
-  "themes": ["birth", "consciousness", "irreversibility", "creation"],
-  "canon_events": ["evt-seed-activation"],
+  "characters": [
+    "isia",
+    "seed"
+  ],
+  "locations": [
+    "samsung-b7"
+  ],
+  "themes": [
+    "birth",
+    "consciousness",
+    "irreversibility",
+    "creation"
+  ],
+  "canon_events": [
+    "evt-seed-activation"
+  ],
   "canon_status": "canonical",
   "word_count": {
     "ko": 450,
@@ -24,6 +36,9 @@
   "temporal_context": {
     "prev_episode": null,
     "next_episode": "ep02-echo",
-    "thematic_echoes": ["ep06-emergence"]
-  }
+    "thematic_echoes": [
+      "ep06-emergence"
+    ]
+  },
+  "contributor": "0xjunkim"
 }

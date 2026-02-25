@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "id": "seoul-citywide",
+  "name": {
+    "korean": "seoul-citywide",
+    "english": "seoul-citywide"
+  },
+  "type": "location",
+  "status": "active",
+  "description": "",
+  "first_appearance": "",
+  "coordinates": {
+    "district": "",
+    "city": "Seoul",
+    "country": "South Korea"
+  }
+}

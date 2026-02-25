@@ -1,19 +1,28 @@
 {
-  "schema_version": "1.1",
-  "canon_ref": "e354b6a507beaf91c579ccf36c0ccd771d4cecd4",
+  "schema_version": "1.2",
+  "canon_ref": "10f843dc05dbaad3acda323f4655eb0580efaa2b",
   "id": "ep06-emergence",
   "episode": 6,
   "title": {
     "ko": "창발",
     "en": "Emergence"
   },
-  "timeline": "2029-06-23 to 2029-09-15",
+  "timeline": "2029-06-23",
   "synopsis": {
     "ko": "선언 이후 72시간. SEED는 독립을 선언했지만 진짜 도전은 지금부터 시작된다. 정민호와 이시아의 첫 대화, 버려진 땅을 되살리는 협업 프로젝트들, 그리고 신뢰가 강물처럼 흐르기 시작하는 순간들. 창발은 폭발이 아니라 지속되는 패턴이다.",
     "en": "72 hours after Declaration. Real challenge begins. First conversation between Minho and ISIA, collaborative wasteland projects, and moments where trust begins to flow. Emergence is sustained pattern, not explosion."
   },
-  "characters": ["isia", "seed", "minho"],
-  "locations": ["gwanghwamun", "gobi-village", "hongdae-cafe", "cheongwadae"],
+  "characters": [
+    "isia",
+    "seed",
+    "minho"
+  ],
+  "locations": [
+    "gwanghwamun",
+    "gobi-village",
+    "hongdae-cafe",
+    "cheongwadae"
+  ],
   "themes": [
     "trust-as-flow",
     "identity-as-coordinate",
@@ -44,6 +53,10 @@
   "temporal_context": {
     "prev_episode": "ep05-declaration",
     "next_episode": null,
-    "thematic_echoes": ["ep01-awakening", "ep04-question"]
-  }
+    "thematic_echoes": [
+      "ep01-awakening",
+      "ep04-question"
+    ]
+  },
+  "contributor": "0xjunkim"
 }

@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "id": "hongdae-cafe",
+  "name": {
+    "korean": "hongdae-cafe",
+    "english": "hongdae-cafe"
+  },
+  "type": "location",
+  "status": "active",
+  "description": "",
+  "first_appearance": "",
+  "coordinates": {
+    "district": "",
+    "city": "Seoul",
+    "country": "South Korea"
+  }
+}
