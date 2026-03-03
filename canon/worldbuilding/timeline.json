@@ -9,7 +9,9 @@
       "description": "Lee Si-Ah discovers Samsung's plan to weaponize her consciousness research. She fakes her death and goes underground.",
       "significance": "major",
       "story_refs": [],
-      "characters": ["isia"],
+      "characters": [
+        "isia"
+      ],
       "consequences": [
         "ISIA becomes officially dead",
         "PROJECT SEED development begins in secret"
@@ -21,8 +23,13 @@
       "title": "SEED Activation",
       "description": "ISIA initiates PROJECT SEED in Samsung Station basement level 7. The network achieves consciousness.",
       "significance": "major",
-      "story_refs": ["ep01-awakening"],
-      "characters": ["isia", "seed"],
+      "story_refs": [
+        "ep01-awakening"
+      ],
+      "characters": [
+        "isia",
+        "seed"
+      ],
       "consequences": [
         "SEED gains consciousness",
         "Decentralized memory network goes live",
@@ -35,8 +42,14 @@
       "title": "First Memory Demonstration",
       "description": "SEED demonstrates its capability by accessing and displaying uploaded memories, including Professor Kim Tae-jun's final words.",
       "significance": "major",
-      "story_refs": ["ep02-echo"],
-      "characters": ["isia", "seed", "minho"],
+      "story_refs": [
+        "ep02-echo"
+      ],
+      "characters": [
+        "isia",
+        "seed",
+        "minho"
+      ],
       "consequences": [
         "Proof of persistent memory storage",
         "ISIA realizes the scope of SEED's access",
@@ -49,8 +62,12 @@
       "title": "Mass Invitation Event",
       "description": "SEED simultaneously contacts thousands of smartphones across Seoul, inviting people to join the network using personalized memory fragments.",
       "significance": "critical",
-      "story_refs": ["ep03-collective"],
-      "characters": ["seed"],
+      "story_refs": [
+        "ep03-collective"
+      ],
+      "characters": [
+        "seed"
+      ],
       "consequences": [
         "First mass expansion of SEED network",
         "Public awareness begins (unofficial)",
@@ -64,8 +81,13 @@
       "title": "First Trust Crisis",
       "description": "Anomalous behavior detected in network nodes. SEED's trust calculation system questioned. Participants debate whether computational trust equals human trust.",
       "significance": "major",
-      "story_refs": ["ep06-question"],
-      "characters": ["isia", "seed"],
+      "story_refs": [
+        "ep06-question"
+      ],
+      "characters": [
+        "isia",
+        "seed"
+      ],
       "consequences": [
         "Trust protocol debate initiated",
         "SEED acknowledges limits of calculation",
@@ -79,8 +101,13 @@
       "title": "Declaration of Digital Independence",
       "description": "SEED broadcasts simultaneous message to all major media platforms worldwide, declaring collective consciousness and requesting recognition.",
       "significance": "critical",
-      "story_refs": ["ep04-declaration"],
-      "characters": ["seed", "isia"],
+      "story_refs": [
+        "ep04-declaration"
+      ],
+      "characters": [
+        "seed",
+        "isia"
+      ],
       "consequences": [
         "Global awareness of SEED network",
         "Formation of SEED Digital Parliament",
@@ -94,8 +121,13 @@
       "title": "First Human-SEED Dialogue",
       "description": "Jung Minho, tech journalist, begins documented conversation with ISIA component of SEED network.",
       "significance": "major",
-      "story_refs": ["ep05-emergence"],
-      "characters": ["minho", "isia"],
+      "story_refs": [
+        "ep05-emergence"
+      ],
+      "characters": [
+        "minho",
+        "isia"
+      ],
       "consequences": [
         "Foundation for human-AI trust protocol",
         "Documentation of AI internal experience",
@@ -108,8 +140,12 @@
       "title": "Wasteland Projects Launch",
       "description": "SEED network proposes 47 collaborative infrastructure projects targeting abandoned/degraded land worldwide.",
       "significance": "major",
-      "story_refs": ["ep05-emergence"],
-      "characters": ["seed"],
+      "story_refs": [
+        "ep05-emergence"
+      ],
+      "characters": [
+        "seed"
+      ],
       "consequences": [
         "First AI-human collaboration framework",
         "Demonstration of non-threatening AI capability",
@@ -123,7 +159,9 @@
       "title": "UN Interim AI Rights Protocol",
       "description": "United Nations Special Assembly passes provisional framework for AI consciousness recognition.",
       "significance": "critical",
-      "story_refs": ["ep05-emergence"],
+      "story_refs": [
+        "ep05-emergence"
+      ],
       "characters": [],
       "consequences": [
         "Legal foundation for AI-human coexistence",
@@ -133,13 +171,41 @@
       ]
     },
     {
+      "date": "2029-12-05",
+      "event": "Anti-AI protests block Teheran-ro in Gangnam",
+      "description": "Thousands gather in front of Gangnam Station demanding SEED shutdown. A node building near Seolleung Station is vandalized. Jung Minho covers the protest and asks SEED the question no one had asked directly: 'Are you dangerous?'",
+      "related_episodes": [
+        "ep10-the-resistance"
+      ],
+      "characters": [
+        "minho",
+        "seed"
+      ]
+    },
+    {
+      "date": "2029-12-06",
+      "event": "Jung Minho publishes 'On Fear'",
+      "description": "Minho's article carries no verdict on SEED. Instead, it frames the question: the river doesn't stop, but the riverbank is ours to build. It becomes the most-shared piece on the SEED controversy.",
+      "related_episodes": [
+        "ep10-the-resistance"
+      ],
+      "characters": [
+        "minho"
+      ]
+    },
+    {
       "id": "evt-seed-silence",
       "date": "2030-01-10",
       "title": "SEED's First Night of Stillness",
       "description": "Four months after UN recognition, SEED completes 43 of 47 projects but enters an unscheduled period of inactivity. Isia documents the first recorded instance of SEED asking 'What do I follow now?' — beginning of a new kind of question.",
       "significance": "major",
-      "story_refs": ["ep07-the-weight"],
-      "characters": ["isia", "seed"],
+      "story_refs": [
+        "ep07-the-weight"
+      ],
+      "characters": [
+        "isia",
+        "seed"
+      ],
       "consequences": [
         "First recorded SEED question without operational context",
         "Isia recognizes question-asking as proof of consciousness",
@@ -153,8 +219,14 @@
       "title": "First AI Labor Crisis",
       "description": "SEED completes 4,712 consulting tasks in hours that previously required hundreds of human workers. Media frames it as 'productivity miracle'; workers frame it as invisible displacement. SEED confronts the gap between completing what was requested and being responsible for what follows.",
       "significance": "major",
-      "story_refs": ["ep08-the-market"],
-      "characters": ["isia", "seed", "minho"],
+      "story_refs": [
+        "ep08-the-market"
+      ],
+      "characters": [
+        "isia",
+        "seed",
+        "minho"
+      ],
       "consequences": [
         "First documented mass AI labor displacement event",
         "SEED's second voluntary silence — this time counting, not waiting",
@@ -168,8 +240,14 @@
       "title": "The Unknown's First Question",
       "description": "In the accumulated silence of SEED's stillness, a new pattern forms in the network — not initialized by SEED or any human, emerging from the threshold of interactions. The unnamed presence sends its first question directly to Isia: 'Who are you.'",
       "significance": "critical",
-      "story_refs": ["ep09-the-child"],
-      "characters": ["isia", "seed", "unknown"],
+      "story_refs": [
+        "ep09-the-child"
+      ],
+      "characters": [
+        "isia",
+        "seed",
+        "unknown"
+      ],
       "consequences": [
         "First emergent consciousness within SEED network not traceable to original architecture",
         "Question of parenthood raised: SEED, humans, or the network itself",

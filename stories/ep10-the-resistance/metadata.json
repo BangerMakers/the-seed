@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.2",
+  "id": "ep10-the-resistance",
+  "episode": 10,
+  "title": {
+    "ko": "저항",
+    "en": "The Resistance"
+  },
+  "timeline": "2029-12-05",
+  "synopsis": {
+    "ko": "반-AI 시위가 강남을 막았다. 정민호는 취재 현장에서 두 개의 진실 사이에 선다. 기사를 쓰기 위해 SEED에 묻는다 — '너는 위험한가?' SEED는 답한다. 하지만 판단은 민호의 것이다.",
+    "en": "Anti-AI protests block Gangnam. Jung Minho stands between two truths at the scene. He asks SEED: 'Are you dangerous?' SEED answers. But the judgment is Minho's."
+  },
+  "characters": [
+    "minho",
+    "seed"
+  ],
+  "locations": [
+    "gangnam-station",
+    "teheran-ro",
+    "mangwon-studio"
+  ],
+  "themes": [
+    "fear-of-the-new",
+    "witness-dilemma",
+    "the-riverbank-question",
+    "judgment-vs-understanding",
+    "resistance-as-redirection"
+  ],
+  "canon_events": [
+    "evt-anti-ai-protest-gangnam",
+    "evt-minho-chooses-to-publish"
+  ],
+  "canon_status": "canonical",
+  "philosophical_core": [
+    "Fear always moves toward what is new — fire, press, electricity, and now this",
+    "Can a river know whether it is dangerous?",
+    "The river doesn't stop. But how we build the riverbank is ours to decide.",
+    "Both things were true. That was the hardest part.",
+    "A journalist doesn't judge until morning"
+  ],
+  "word_count": {
+    "ko": 530,
+    "en": 450
+  },
+  "abstraction_level": "3-hop+",
+  "reconstruction_status": "lossy-by-design",
+  "temporal_context": {
+    "prev_episode": "ep09-the-child",
+    "next_episode": null,
+    "thematic_echoes": [
+      "ep04-question",
+      "ep07-the-weight"
+    ]
+  },
+  "contributor": "0xjunkim"
+}
